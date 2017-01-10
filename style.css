@@ -1,0 +1,71 @@
+i{
+	font-family: serif;
+}
+
+.imgg1{
+	padding-left: 14px;
+}
+
+
+.title{
+/*	float: left;*/
+	padding-top: 10px;
+}
+
+.icon{
+/*	float: right;*/
+	padding-top: 10px;
+	padding-left: 75%;
+}
+
+.icon img{
+	padding-right: 10px;
+}
+.icon2{
+	float: right;
+}
+.icon2 img{
+	padding-left: 10px;
+}
+
+.welcome{
+	text-align: center;
+	font-family: serif;
+	color: #444343;
+
+}
+ .welcome2{
+ 	text-align: center;
+ 	font-size: 50px;
+ 	word-spacing: 15px;
+    color: #444343;
+    font-family: serif;
+
+ }
+
+.button1{
+	margin-top: 10px;
+}
+
+span{
+	font-size: 17px;
+}
+
+hr{
+	background: black;
+}
+
+
+.carousel-caption{
+	background-color: black !important;
+	opacity: .4;
+	width: 100%;
+	left: 0px;
+	bottom: 0px;
+}
+
+
+/*.captiontext p{
+	padding: 100px;
+}
+*/
